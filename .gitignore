@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Local data files (if you want to exclude them)
+# *.csv
+
+# System files
+.DS_Store
+Thumbs.db
